@@ -1,4 +1,4 @@
-[![MasterHead]([https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif])
+[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
 <h1 align="center">Hi 👋, I'm Pavan Kumar Gowda</h1>
 <h3 align="center">A passionate Python Developer from Bengaluru, India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">

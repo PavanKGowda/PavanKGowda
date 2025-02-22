@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/9092a98c5dfa4a55a9997193bb713d8daf869a80a2d63b51775cd703dd678150/68747470733a2f2f6173322e667463646e2e6e65742f76322f6a70672f30352f36372f34302f33312f313030305f465f3536373430333134375f576a5635667147526a6a50556b424f6e58616152454b67566a5a4d4331324d372e6a7067)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">👋 Hey there, I'm Pavan Kumar Papanna Gowda</h1>
 <h3 align="center"> <strong> Artificial Intelligence & Data Science Student at REVA University, Bengaluru </strong> <br> Transforming innovative ideas into intelligent solutions through code.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">

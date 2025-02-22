@@ -1,7 +1,7 @@
 [![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
 <h1 align="center">Hi 👋, I'm Pavan Kumar Gowda</h1>
 <h3 align="center">A passionate Python Developer from Bengaluru, India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA5eThvcjV6ZWk0ZHgzdWE1dzI1NWNmOGhmaXBoN3UzZHYxZ2lldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowdapavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="gowdapavankumar" /> </p>
 

@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">👋 Hey there, I'm Pavan Kumar Papanna Gowda</h1>
-<h3 align="center"> <strong> Artificial Intelligence & Data Science Student at REVA University, Bengaluru </strong> <br> Transforming innovative ideas into intelligent solutions through code.</h3>
+<h3 align="center"> <strong> 🤖 Artificial Intelligence & Data Science Student at REVA University, Bengaluru. </strong> <br> 🪄 Transforming innovative ideas into intelligent solutions through code 💻✨</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowdapavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="gowdapavankumar" /> </p>
